@@ -1,6 +1,6 @@
 ESP32 heat controller
 ----------------------
-Read article on [here](https://medium.com/@rasmusschlunsen/hacking-a-heat-controller-with-esp32-mqtt-96eaadb36228)
+Read article [here](https://medium.com/@rasmusschlunsen/hacking-a-heat-controller-with-esp32-mqtt-96eaadb36228)
 
 ![Project setup](https://github.com/schlunsen/esp32_heatcontroller/raw/master/assets/Heat%20controller%20project.png)
 
